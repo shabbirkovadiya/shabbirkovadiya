@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Shabbir Kovadiya**  
-🚀 <!--**Web Developer | Open Source Enthusiast**  --
+🚀 **Web Developer | Open Source Enthusiast** 
 
 I specialize in building **dynamic web applications** using **HTML, CSS,JS**. I'm also skilled in **Python** and love solving complex problems. Passionate about **technology**, I stay updated with the latest trends to craft efficient and scalable solutions. Let's connect and build something amazing! 🚀  
 
