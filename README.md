@@ -49,8 +49,8 @@ I specialize in building **dynamic web applications** using **HTML, CSS,JS,React
 ## 📊 **GitHub Stats**  
 ![Shabbir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shabbirkovadiya&show_icons=true&theme=radical)  
 
-## 🚀 **GitHub Commits Graph**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shabbirkovadiya&theme=dracula)
+## 🚀 **GitHub Commits Graph**   
+[![Shabbir's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabbirkovadiya&theme=github_dark)](https://github.com/shabbirkovadiya)
   
 
 ## 🔥 **Top Languages**  
