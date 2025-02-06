@@ -1,15 +1,14 @@
 # 👋 Hi, I'm **Shabbir Kovadiya**  
-🚀 **Web Developer | Open Source Enthusiast**  
+🚀 <!--**Web Developer | Open Source Enthusiast**  --
 
-I specialize in building **dynamic web applications** using **HTML, CSS, JavaScript, React.js, and Node.js with Express.js**. I'm also skilled in **Python, C, and C++** and love solving complex problems. Passionate about **technology**, I stay updated with the latest trends to craft efficient and scalable solutions. Let's connect and build something amazing! 🚀  
+I specialize in building **dynamic web applications** using **HTML, CSS,JS**. I'm also skilled in **Python** and love solving complex problems. Passionate about **technology**, I stay updated with the latest trends to craft efficient and scalable solutions. Let's connect and build something amazing! 🚀  
 
 ---
 
 ## 🌍 **About Me**  
-- 📍 Based in **Ahmedabad, Gujarat, India**  
 - 🖥️ **Portfolio**: [LinkedIn Profile](https://www.linkedin.com/in/shabbirkovadiya)  
-- 📧 **Contact**: shabbirkovadiya@gmail.com  
-- 🧠 Currently learning **MERN Stack Development**  
+- 📧 **Contact**: work.shabbirkovadiya@gmail.com  
+- 🧠 Currently learning **Full Stack Development**  
 - 🤝 Open to collaborating on **open-source** & **challenging projects**  
 - ⚡ **Active & consistent learner** with a passion for problem-solving  
 
@@ -18,7 +17,6 @@ I specialize in building **dynamic web applications** using **HTML, CSS, JavaScr
 ## 🛠 **Skills & Technologies**  
 **Languages:**  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
