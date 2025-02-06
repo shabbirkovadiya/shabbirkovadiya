@@ -1,7 +1,3 @@
-Here’s your **GitHub Profile README** in a clean, professional, and attractive format:  
-
----
-
 # 👋 Hi, I'm **Shabbir Kovadiya**  
 🚀 **Web Developer | Open Source Enthusiast**  
 
@@ -64,16 +60,3 @@ I specialize in building **dynamic web applications** using **HTML, CSS, JavaScr
 ## 🔥 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirkovadiya&layout=compact&theme=tokyonight)  
 
----
-
-## 💖 **Support Me**  
-If you like my work, consider **starring** ⭐ my repos or buying me a coffee! ☕  
-
----
-
-### ✅ Next Steps:  
-- **Replace the GitHub username** in stats links  
-- **Keep updating skills & contributions**  
-- **Share your profile link to showcase your expertise**  
-
-This **GitHub Profile README** is **attractive, structured, and engaging**! 🚀 Let me know if you need any modifications! 🎯
