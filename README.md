@@ -25,7 +25,7 @@ I specialize in building **dynamic web applications** using **HTML, CSS,JS,React
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+<!--![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  -->
 
 **Backend & Database:**  
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
